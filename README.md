@@ -2,6 +2,7 @@
 -Aplicación on-line para el seguimiento de criptomonedas haciendo uso de Angular como Framework de desarrollo. https://cryptotracker-b1ef7.web.app/
 
 - A veces en los detalles de las monedas no muestra la gráfica, pero yendo a Inicio y darle otra vez debería de poder verse.
+- Primero de todo usar el comando `npm install` antes de usar `ng serve`.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
